@@ -1204,7 +1204,7 @@
 	"runtime": {
 		"ad_conversion": 1,
 		"ad_impression": 1,
-		"country": "CN",
+		"country": "US",
 		"fb_purchase_ads_revenue": 1,
 		"fb_purchase_iap_revenue": 0,
 		"gdpr_applicable": 0,
